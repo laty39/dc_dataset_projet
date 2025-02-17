@@ -39,7 +39,7 @@ We are looking for **AI researchers, developers, and linguists** interested in:
 
 ### 📌 Get Involved  
 🔹 Fork this repository and submit pull requests!  
-🔹 Join our **Discord (Coming Soon!)** to discuss the project.  
+🔹 Join our **Discord (https://discord.gg/FjxUkwdbx8)** to discuss the project.  
 🔹 Contact us for collaboration opportunities.  
 
 ## License  
